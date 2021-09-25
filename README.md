@@ -440,3 +440,5 @@ Congratulations on creating your first Glue Crawlers, Athena Databases & Tables,
 For more tips and information about what's new in QuickSight, check out the [blog](https://quicksight.aws/resources/blog/) as well as the other [resources](https://quicksight.aws/resources/) on the website!
 
 ### The End
+
+- https://github.com/vaquarkhan/amazon-quicksight-user-guide
